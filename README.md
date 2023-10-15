@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hello, my name is Kauan Meiguins 🫡
 
-<!--
-**Meiguins/Meiguins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/meiguins_/)
 
-Here are some ideas to get you started:
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=Meiguins&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meiguins&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+### Skills
+
+<div style= "display: inline_block"><br/>
+    <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img align="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+    <img align="center" alt="" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+    <img align="center" alt="" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+   
+</div>  
+
+
+
+EStudying Spring and PostgreSQL/SQLITE. Enjoying the journey.
