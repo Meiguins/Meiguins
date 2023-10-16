@@ -20,4 +20,4 @@
 
 
 
-EStudying Spring and PostgreSQL/SQLITE. Enjoying the journey.
+EStudying Spring, PostgreSQL and MongoDB. Enjoying the journey.
