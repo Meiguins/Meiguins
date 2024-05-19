@@ -1,12 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400D3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Kauan+Meiguins;I'm+20+years+old;I'm+from+Brazil;I+Undergraduate+student+in+ADS+!;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Meiguins&bg_color=0d1117&color=9400d3&line=9400d3&point=ba55d3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Meiguins&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Meiguins&show_icons=true&count_private=true&hide_border=true&title_color=9400D3&icon_color=9400D3&text_color=c9d1d9&bg_color=0d1117" alt="Kauan Meiguins github stats" /> 
@@ -40,5 +33,3 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Meiguins}/count.svg" /></p> 
 <br>
 </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=footer"/>
